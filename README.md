@@ -9,7 +9,7 @@
 ---
 
 ## Stats
-![minus53K's GitHub stats](https://github-readme-stats.vercel.app/api?username=minus53K&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![minus53K's GitHub stats](https://github-readme-stats.vercel.app/api?username=minus53K&hide=contribs,prs)
 
 <!--
 **minus53K/minus53K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
