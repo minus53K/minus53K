@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;We+must+know+;we+will+know)](https://git.io/typing-svg)
+
 - 🔭 I’m a Statistics student at XMU, interested in logic, linguistics, computer science, and web design.
 - 🌱 I’m currently learning Python, SQL, and JavaScript
 
