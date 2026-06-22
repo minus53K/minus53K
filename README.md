@@ -11,7 +11,9 @@
 ## Stats
 ![minus53K's GitHub stats](https://github-readme-stats.vercel.app/api?username=minus53K&hide=prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minus53K&layout=compact)
+![minus53K's Top Langs][github-stats-img]
+
+[github-stats-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=minus53K&layout=compact
 
 <!--
 **minus53K/minus53K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
