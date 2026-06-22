@@ -10,9 +10,9 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=minus53K&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="minus53K's Top Languages" align="right" width="295">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=minus53K&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4" alt="minus53K's Top Languages" align="right" width="295">
 
-![minus53K's GitHub stats](https://github-readme-stats.vercel.app/api?username=minus53K&hide=prs)
+![minus53K's GitHub stats](https://github-readme-stats.vercel.app/api?username=minus53K&hide=prs&theme=github_dark)
 
 <!--
 **minus53K/minus53K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
