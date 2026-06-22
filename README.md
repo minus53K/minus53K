@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning HTML, Python and C
+- 🔭 I’m a Statistics student at XMU, interested in logic, linguistics, computer science, and web design.
+- 🌱 I’m currently learning Python, SQL, and JavaScript
 
 <!--
 **minus53K/minus53K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
