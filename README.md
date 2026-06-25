@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-  - 🔭 I’m a Statistics student at XMU, interested in logic, linguistics, computer science, and web design.
+  - 🔭 I’m a Statistics student at Xiamen University, interested in logic, linguistics, computer science, and web design.
   - 🌱 I’m currently learning Python, SQL, and JavaScript
 
 ---
